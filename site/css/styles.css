@@ -1,0 +1,87 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #b300b3;
+  font-family: 'Georigia', serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #330033;
+  color:#b300b3;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  color:#b300b3;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Georigia', serif;
+  color: #b300b3;
+  font-size: 2 em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #b300b3;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.5;
+}
+.navbar-toggle{
+    color: #b300b3;
+}
+
+.navbar-header button .navbar-toggle, .navbar-header  {
+  border: 0px solid #61122f;
+  color:#b300b3;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+  color:#b300b3;
+}
+#nav-list {
+  margin-top: 10px;
+  color:#b300b3;
+}
+#nav-list a {
+  color: #b300b3;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #330033;
+  color:#b300b3;
+}
+#nav-list a span{
+  font-size: 1.8em;
+    color:#b300b3;
+}
+#colapsable-nav {
+   color:#b300b3;
+}
+/* END HEADER */
+/*MAIN CONTENT*/
+#main-content.container h1 {
+  text-align: center;
+  color: #330033;
+}
+#main-content.container h2 {
+  text-align: center;
+}
+#main-content.container #Chicken , #Beef , #Sushi  {
+  height: 300px;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 15px;
+  position: relative;
+  color:#b300b3;
+  background-color: #330033;
+  border: 2px solid #000000;
+  overflow: hidden;
+}
+
+
+
+
+
